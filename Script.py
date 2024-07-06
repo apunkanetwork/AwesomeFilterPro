@@ -128,3 +128,6 @@ This module only works for my admins
 ɪᴅ ♥️- <code>{}</code>
 ɴᴀᴍᴇ 💥- {} 
 """
+    CAPTION = """<b>📂Fɪʟᴇɴᴀᴍᴇ : {file_name}
+
+<b> Size ⚙️: {file_size}</b>"""
